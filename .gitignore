@@ -2,3 +2,4 @@ s_labels.npy
 s_images.npy
 images.npy
 labels.npy
+*.npy
